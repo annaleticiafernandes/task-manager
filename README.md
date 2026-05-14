@@ -59,5 +59,3 @@ npm run dev
 | POST | /tasks | Cria uma nova tarefa |
 | PUT | /tasks/:id | Alterna status da tarefa |
 | DELETE | /tasks/:id | Remove uma tarefa |
-
-## 👩‍💻 Autora
